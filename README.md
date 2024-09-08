@@ -68,10 +68,10 @@ my_ip       = "your_ip_address"
 
 
 ## How to Use
-0. ***Create web-kp***: 
+0. ***Create Private/Public key Pair***: 
 - Create Private/Public key Pair named "web-kp" that will be used as key in the instances. 
 - Note! For security reasons the key is not included in the key configuration and should be created manually. 
- 
+
 1. **Install and Configure Terraform**:
 - Install Terraform from [terraform.io](https://www.terraform.io/downloads.html).
    - Set up your AWS CLI with the required credentials and region.
